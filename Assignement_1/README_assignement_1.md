@@ -10,7 +10,7 @@ Your task:
 Within a jupyter notebook: 
 
 - Write a code that reads the table in a format you can manipulate 
-- Which column provide the grade? How many objects of each grade is there in the table?
+- Which column provides the grade? How many objects of each grade is there in the table?
 - Inspired by the example code provided in `example_cutout.py`, create small cutouts (typ15 x 15 arcsec) of 5 objects of each grade. 
 
 
