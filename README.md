@@ -33,7 +33,7 @@ project-root/
 ├─ requirements.txt          # This file should list the versions of the modules that you have been using.
 ├─ .gitignore
 ├─ Assignement1		     # Directory containing the first assignement
-├─ Assignement2		     # Directory containing the first assignement
+├─ Assignement2		     # Directory containing the second assignement
 ├─ data/
 │  ├─ README.md              # data filenames (if you rename or create small tables)
 │  └─ sample/                # tiny samples for quick tests 
